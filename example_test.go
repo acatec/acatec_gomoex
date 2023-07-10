@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/WLM1ke/gomoex"
+	gomoex "github.com/acatec/acatec_gomoex"
 )
 
 // nolint: lll

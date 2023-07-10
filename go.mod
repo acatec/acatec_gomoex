@@ -1,4 +1,4 @@
-module github.com/WLM1ke/gomoex
+module github.com/acatec/acatec_gomoex
 
 go 1.17
 

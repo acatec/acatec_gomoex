@@ -1,9 +1,9 @@
 # Gomoex
 
-[![Go test](https://github.com/WLM1ke/gomoex/actions/workflows/test.yml/badge.svg)](https://github.com/WLM1ke/gomoex/actions/workflows/test.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/WLM1ke/gomoex)](https://goreportcard.com/report/github.com/WLM1ke/gomoex)
+[![Go test](https://github.com/acatec/acaytec_gomoex/actions/workflows/test.yml/badge.svg)](https://github.com/acatec/acaytec_gomoex/actions/workflows/test.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/acatec/acaytec_gomoex)](https://goreportcard.com/report/github.com/acatec/acaytec_gomoex)
 [![codecov](https://codecov.io/gh/WLM1ke/gomoex/branch/main/graph/badge.svg?token=74YYC7H8EC)](https://codecov.io/gh/WLM1ke/gomoex)
-[![Go Reference](https://pkg.go.dev/badge/github.com/WLM1ke/gomoex.svg)](https://pkg.go.dev/github.com/WLM1ke/gomoex)
+[![Go Reference](https://pkg.go.dev/badge/github.com/acatec/acaytec_gomoex.svg)](https://pkg.go.dev/github.com/acatec/acaytec_gomoex)
 
 Реализация части запросов к [MOEX Informational & Statistical Server](https://www.moex.com/a2193).
 
@@ -16,7 +16,7 @@
 * свечек и исторических котировок
 * дивидендов
 
-При необходимости перечень запросов может быть расширен. [Документация](https://pkg.go.dev/github.com/WLM1ke/gomoex).
+При необходимости перечень запросов может быть расширен. [Документация](https://pkg.go.dev/github.com/acatec/acaytec_gomoex).
 
 # Пример использования
 
@@ -28,7 +28,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/WLM1ke/gomoex"
+	"github.com/acatec/acaytec_gomoex"
 	"net/http"
 )
 
